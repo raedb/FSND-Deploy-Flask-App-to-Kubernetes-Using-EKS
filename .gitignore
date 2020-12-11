@@ -1,3 +1,4 @@
+.vscode
 .DS_Store
 .env
 .flaskenv
@@ -16,7 +17,7 @@ _mailinglist
 .idea/
 docs/_build/
 __pycache__
-.env_file
+#.env_file
 
 # Coverage reports
 htmlcov/
